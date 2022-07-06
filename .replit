@@ -1,0 +1,4 @@
+language = "cpp"
+compile = "g++ *.cpp -o KnightsTour"
+run = "./KnightsTour"
+hidden = ["KnightsTour"]
